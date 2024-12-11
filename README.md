@@ -1,7 +1,5 @@
 # Vanilla-JS-Projects
 
-# Vanilla JS Projects
-
 This repository contains links to all my Vanilla JS projects.
 
 1. [Project 1: Exchange-Rate](https://github.com/BOUKEHILMerouane/Exchange-Rate)
